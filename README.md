@@ -1,42 +1,53 @@
-Microservice Name
-Description
+# Microservice Name
+
+## Description
+
 A brief description of the microservice and its purpose. Include any key features or functionalities it provides.
 
-Table of Contents
-Installation
-Usage
-Configuration
-API Documentation
-Database Schema
-Deployment
-Testing
-Contributing
-License
-Installation
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [API Documentation](#api-documentation)
+- [Database Schema](#database-schema)
+- [Deployment](#deployment)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
 Detailed instructions on how to install and set up the microservice, including any dependencies that need to be installed.
 
-Usage
+## Usage
+
 Examples and explanations of how to use the microservice, including any required inputs and expected outputs. Include code snippets if applicable.
 
-Configuration
+## Configuration
+
 Information on how to configure the microservice, including environment variables or configuration files that need to be set up.
 
-API Documentation
+## API Documentation
+
 Detailed documentation of the microservice's API, including endpoints, request/response formats, authentication mechanisms, etc.
 
-Database Schema
+## Database Schema
+
 Description of the database schema used by the microservice, including tables, fields, and relationships.
 
-Deployment
+## Deployment
+
 Instructions on how to deploy the microservice to various environments, such as local development, staging, and production.
 
-Testing
+## Testing
+
 Information on how to run tests for the microservice, including unit tests, integration tests, and end-to-end tests.
 
-Contributing
+## Contributing
+
 Guidelines for contributing to the microservice, including how to report issues and how to submit pull requests.
 
-License
-Information about the license under which the microservice is distributed.
+## License
 
-Feel free to customize this template to fit the specific needs of your microservice!
+Information about the license under which the microservice is distributed.
